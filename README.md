@@ -1,0 +1,1 @@
+The  chloroplast coding sequences (cp CDSs) were meticulously filtered according to strin-gent criteria: (1) each cp CDS had to begin with an ATG start codon and end with one of the three termination codons (TGA, TAA, TAG); (2) the cp CDS length was no less than 300 base pairs
